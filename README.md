@@ -83,7 +83,7 @@
     <h3 style="color: #58a6ff;">Project 1</h3>
     <p>Description of your first notable project. Include technologies used and key features.</p>
     <div>
-      <a href="https://github.com/YOUR_USERNAME/project1">
+      <a href="https://github.com/nguyenkebao3011/project1">
         <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
     </div>
@@ -93,7 +93,7 @@
     <h3 style="color: #58a6ff;">Project 2</h3>
     <p>Description of your second notable project. Include technologies used and key features.</p>
     <div>
-      <a href="https://github.com/YOUR_USERNAME/project2">
+      <a href="https://github.com/nguyenkebao3011/project2">
         <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
     </div>
@@ -103,7 +103,7 @@
     <h3 style="color: #58a6ff;">Project 3</h3>
     <p>Description of your third notable project. Include technologies used and key features.</p>
     <div>
-      <a href="https://github.com/YOUR_USERNAME/project3">
+      <a href="https://github.com/nguyenkebao3011/project3">
         <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
     </div>
@@ -113,42 +113,23 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyenkebao3011&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenkebao3011&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/nguyenkebao3011/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 <div align="center">
-  <h3>⭐️ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a></h3>
+  <h3>⭐️ From <a href="https://github.com/nguyenkebao3011">KayBi3011</a></h3>
 </div>
-\`\`\`
 
-This HTML-based README includes:
-
-1. An animated typing header with your name
-2. Visually appealing tech stack sections with badges
-3. GitHub stats cards with a modern theme
-4. Featured projects in card-style containers
-5. GitHub trophies and streak stats
-6. A snake animation of your contribution graph (you'll need to set up a GitHub Action for this)
-7. Social media links with badges
-
-To use this README:
-
-1. Replace all instances of "YOUR_USERNAME" with your actual GitHub username
-2. Update your email, LinkedIn, and website links
-3. Add descriptions for your featured projects
-4. Update the project links to point to your actual repositories
-
-Note: Some of the inline CSS styling may be limited by GitHub's security restrictions, but the badges, cards, and overall structure will still look great on your profile.
 
